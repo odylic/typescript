@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/odylic/typescript/issues"
   },
-  "homepage": "https://github.com/odylic/typescript#readme"
+  "homepage": "https://github.com/odylic/typescript#readme",
+  "dependencies": {
+    "@types/node": "^16.11.7"
+  }
 }
