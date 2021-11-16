@@ -1,3 +1,5 @@
+export {};
+
 console.log("hello world");
 
 // types person as the interface of person, and states it returns a string
